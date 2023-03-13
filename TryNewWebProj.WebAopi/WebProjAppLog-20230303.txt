@@ -1,0 +1,5 @@
+2023-03-03 10:50:47.348 +05:00 [INF] Notes Request: GetLanguageListQuery "0f244a5e-4716-477c-95f5-d26652aa4518" {"UserId":"0f244a5e-4716-477c-95f5-d26652aa4518","$type":"GetLanguageListQuery"}
+2023-03-03 10:50:47.970 +05:00 [INF] Notes Request: GetLanguageListQuery "0f244a5e-4716-477c-95f5-d26652aa4518" {"UserId":"0f244a5e-4716-477c-95f5-d26652aa4518","$type":"GetLanguageListQuery"}
+2023-03-03 10:50:49.124 +05:00 [INF] Notes Request: GetWordListQuery "0f244a5e-4716-477c-95f5-d26652aa4518" {"LanguageId":"54bb79b1-23bb-43c5-965a-f16463174442","$type":"GetWordListQuery"}
+2023-03-03 10:50:52.035 +05:00 [INF] Notes Request: GetWordDetailsQuery "0f244a5e-4716-477c-95f5-d26652aa4518" {"Id":"32f3d97a-a4ff-4b61-b779-77fa7d064a23","$type":"GetWordDetailsQuery"}
+2023-03-03 10:50:52.153 +05:00 [INF] Notes Request: GetWordDetailsQuery "0f244a5e-4716-477c-95f5-d26652aa4518" {"Id":"32f3d97a-a4ff-4b61-b779-77fa7d064a23","$type":"GetWordDetailsQuery"}
